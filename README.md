@@ -7,7 +7,6 @@ I started this repo to:
 - 🧠 Strengthen problem-solving and logic-building skills
 - 🛠️ Practice core concepts like pointers, arrays, structures, and more
 - 🟩 Maintain my GitHub contribution streak with meaningful commits
-
 ---
 
 ## 📅 My Goal
